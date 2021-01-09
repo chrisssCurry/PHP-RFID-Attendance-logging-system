@@ -1,0 +1,91 @@
+html {
+    font-family: Arial;
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #DF1212;
+    width: 70%;
+    border-radius: 25px 25px 25px 25px;
+}
+
+ul.topnav li {
+    float: center;
+    }
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #9C0C0C;}
+
+ul.topnav li a.active {background-color: #333;}
+
+ul.topnav li.right {float: right;}
+
+.table {
+    margin: auto;
+    width: 90%; 
+}
+
+thead {
+    color: #FFFFFF;
+}
+
+.center {
+    margin: 0 auto; 
+    width:495px; 
+    border-style: solid; 
+    border-color: #f2f2f2;
+}
+
+.alert {
+    padding: 10% 10%;
+    text-align: center;
+    font-size:150% ;
+}
+
+.null {
+    color:red;
+    font-size:150%;
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+a:hover {
+    text-decoration:underline;
+    color:black;
+}
+
+@media screen and (max-width: 600px) {
+    ul.topnav li.right {float: right;}, 
+    ul.topnav li {float: none;}
+}
+
+td.lf {
+    padding-left: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.table {
+    margin: auto;
+    width: 90%; 
+  }
+  
+  thead {
+    color: #FFFFFF;
+  }
