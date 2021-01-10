@@ -1,6 +1,11 @@
 # PHP-NodeMCU-RFID-Attendance-logging-system
 <a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h1>To see a full presentation and a video of this project, check the 'Preview' folder.</h1></a>
-The system is based on a NodeMCU and an Arduino UNO board (for the hardware device), a website created with PHP,HTML,CSS,Bootstrap,Javascript,jQuery and a MySQL database.The hardware device will read RFID cards, store their information, and send it to the website which will proccess the data and then modify it/store it in the SQL database, then send a response to the device so it can print a message on an LCD screen and also write the result on a micro SD card.The website allows the administrator to register,delete and even edit users and their registered RFID cards.The system displays the current registered attendance logged on the final page in a table obtained by inner joining the 'users' and the 'logs' table.This final table can also be exported as an Excel file.
+
+-The system is based on a NodeMCU and an Arduino UNO board (for the hardware device), a website created with PHP,HTML,CSS,Bootstrap,Javascript,jQuery and a MySQL database.
+
+-The hardware device will read RFID cards, store their information, and send it to the website which will proccess the data and then modify it/store it in the SQL database, then send a response to the device so it can print a message on an LCD screen and also write the result on a micro SD card.
+
+-The website allows the administrator to register,delete and even edit users and their registered RFID cards.The system displays the current registered attendance, logged on the final page in a table obtained by inner joining the 'users' and the 'logs' table, using MySQL queries.This final table can also be exported as an Excel file.
 
 <h2>Project diagram</h2>
 <img src="Preview/bloc.jpg">
