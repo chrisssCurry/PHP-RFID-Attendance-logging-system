@@ -1,5 +1,5 @@
 # PHP-NodeMCU-RFID-Attendance-logging-system
-<a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h1>To see a full presentation and a video of this project, check the 'Preview' folder.</h1></a>
+<a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h1>To download a Powerpoint presentation of the project, check the 'Preview' directory.</h1></a>
 
 -The system is based on a NodeMCU and an Arduino UNO board (for the hardware device), a website created with PHP,HTML,CSS,Bootstrap,Javascript,jQuery and a MySQL database.
 
