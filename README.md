@@ -22,4 +22,5 @@
 <img src="Preview/date.JPG">
 <h2>Attendance logs</h2>
 <img src="Preview/prezenta.JPG">
-<a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h1>To download a Powerpoint presentation of the project, check the 'Preview' directory.</h1></a>
+
+<a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h2>To download a Powerpoint presentation of the project, check the 'Preview' directory.</h2></a>
