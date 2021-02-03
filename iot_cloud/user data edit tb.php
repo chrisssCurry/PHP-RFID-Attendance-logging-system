@@ -14,13 +14,6 @@
 		$specializare = $_POST['specializare'];
     
          
-        // $pdo = Database::connect();
-		// $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-		// $sql = "UPDATE table_nodemcu_rfidrc522_mysql  set name = ?, gender =?, email =? WHERE id = ?";
-		// $q = $pdo->prepare($sql);
-		// $q->execute(array($name,$gender,$email,$id));
-		// Database::disconnect();
-		// header("Location: user data.php");
 
         $pdo = Database::connect();
         $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
