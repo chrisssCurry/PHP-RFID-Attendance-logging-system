@@ -22,5 +22,12 @@
 <img src="Preview/date.JPG">
 <h2>Attendance logs</h2>
 <img src="Preview/prezenta.JPG">
+<h2>Attendance logs exported as an Excel file</h2>
+<img src="Preview/excel.JPG">
+<h2>The logic behind the hardware device</h2>
+<img src="Preview/hardware flowchart.JPG">
+<h2>The hardware device</h2>
+<img src="Preview/device outside.JPG">
+<img src="Preview/device inside.JPG">
 
 <a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h2>To download a Powerpoint presentation of the project, check the 'Preview' directory.</h2></a>
