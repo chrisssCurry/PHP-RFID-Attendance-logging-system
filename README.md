@@ -29,5 +29,3 @@
 <h2>The hardware device</h2>
 <img src="Preview/device outside.jpg">
 <img src="Preview/device inside.jpg">
-
-<a href="https://github.com/chrisssCurry/IoT-RFID-Attendance-logging-system/tree/main/Preview"><h2>To download a Powerpoint presentation of the project, check the 'Preview' directory.</h2></a>
