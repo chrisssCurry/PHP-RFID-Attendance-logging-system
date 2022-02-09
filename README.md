@@ -6,9 +6,9 @@
 -The website allows the administrator to register, delete and even edit users and their registered RFID cards. The system displays the current registered attendance, logged on the final page in a table obtained by inner joining the 'users' and the 'logs' table, using MySQL queries. This final table can also be exported as an Excel file.
 
 <h2>Project diagram</h2>
-<img src="Preview/bloc.jpg">
+<img src="Preview/bloc.png">
 <h2>Website diagram</h2>
-<img src="Preview/site.jpg">
+<img src="Preview/site.png">
 <h2>User data</h2>
 <img src="Preview/studenti.JPG">
 <h2>User data edit page</h2>
